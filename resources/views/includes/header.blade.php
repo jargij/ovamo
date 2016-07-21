@@ -18,11 +18,11 @@
 
 </h2>
 
-<a href="http://localhost:9999/action/previousschool">previousschool</a>
-<a href="http://localhost:9999/action/nextschool">nextschool</a>
-<a href="http://localhost:9999/action/previousdate">previousdate</a>
+<a href="http://localhost:9999/action/previousschool">previousschool</a> - 
+<a href="http://localhost:9999/action/nextschool">nextschool</a> | 
+<a href="http://localhost:9999/action/previousdate">previousdate</a> - 
 <a href="http://localhost:9999/action/nextdate">nextdate</a>
 
 <hr>
 </div>
-<div class="col-md-1"></div>
+<div class="col-md-1"><h1><a href="/info">info</a></h1></div>

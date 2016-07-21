@@ -119,9 +119,11 @@ class VacatureSiteController extends Controller
         <br>D = nextdate
 
         </ul></p>
-        <p><b>Vragen</b> <br> mailen naar koppers@dialogic.nl of vankan@dialogic.nl
+        <p><b>Links aanpassen:</b> Links naar vacaturesites kunnen aangepast worden, graag de gewenste wijziging mailen naar zie hieronder.</p>
 
+        <p><b>Vragen:</b> Mailen naar koppers@dialogic.nl of vankan@dialogic.nl
 
+    
         ";
         $data['status'] = $record->status;
         $data['vacature_sites_lijst_id'] = $record->vacature_sites_lijst_id;
